@@ -56,6 +56,8 @@ Create React App supports CSS Modules. [Learn more](https://create-react-app.dev
 
 Ember supports CSS Modules through `ember-css-modules`. [Learn more](https://github.com/salsify/ember-css-modules).
 
+For projects built with Embroider, Ember provides `embroider-css-modules`. [Learn more](https://github.com/ijlee2/embroider-css-modules).
+
 ### Next.js
 
 Next.js supports CSS Modules for both webpack and Turbopack (`next dev --turbo`). [Learn more](https://nextjs.org/docs/app/building-your-application/styling/css-modules).

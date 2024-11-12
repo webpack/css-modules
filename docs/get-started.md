@@ -28,7 +28,7 @@ PostCSS supports CSS Modules through the plugin `postcss-modules`. [Learn more](
 
 ### Rspack
 
-Rspack supports CSS Modules. [Learn more](https://www.rspack.dev/guide/language-support#css-modules).
+Rspack supports CSS Modules. [Learn more](https://rspack.dev/guide/tech/css#css-modules).
 
 ### Webpack
 
